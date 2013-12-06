@@ -1,0 +1,9 @@
+[submodule "glyphs"]
+	path = glyphs
+	url = https://github.com/make-me/glyphs
+[submodule "csgtool"]
+	path = csgtool
+	url = https://github.com/sshirokov/csgtool
+[submodule "stltwalker"]
+	path = stltwalker
+	url = https://github.com/sshirokov/stltwalker
